@@ -1,0 +1,28 @@
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{FA3F75B1-EEA9-4D4C-9080-339BFEC9EE46}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="MRGGT/Controllers/CustomerController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MRGGT" expanded="True">
+            <Node name="MRGGT" expanded="True">
+              <Node name="ClientApp" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="CustomerController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MRGGT PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
